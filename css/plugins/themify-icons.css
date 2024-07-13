@@ -239,6 +239,9 @@
 .ti-clip:before {
 	content: "\e647";
 }
+
+
+/* 
 .ti-angle-up:before {
 	content: "\e648";
 }
@@ -250,7 +253,10 @@
 }
 .ti-angle-down:before {
 	content: "\e64b";
-}
+} */
+
+
+
 .ti-check:before {
 	content: "\e64c";
 }
