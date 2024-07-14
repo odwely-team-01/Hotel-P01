@@ -449,6 +449,14 @@ $(function () {
             }
         }
     });
+
+    $(document).ready(function() {
+        $('.navbar-nav .nav-link').on('click', function() {
+            if ($(window).width() <= 990) {
+                $('#navbar').removeClass('show');
+            }
+        });
+    });
     
     //  Scroll back to top
     var progressPath = document.querySelector('.progress-wrap path');

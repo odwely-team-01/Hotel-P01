@@ -846,6 +846,7 @@ color: #aa8453;
 }
 .navbar-toggler-icon {
     background-image: none;
+    
 }
 .navbar .navbar-toggler-icon,
 .navbar .icon-bar {
@@ -899,6 +900,7 @@ color: #aa8453;
 }
 .nav-scroll .navbar-nav .nav-link {
     color: #222;
+    
 }
 .nav-scroll .navbar-nav .active {
     color: #aa8453 !important;
